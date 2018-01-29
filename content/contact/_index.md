@@ -5,3 +5,4 @@ draft: true
 ---
 
 Dette er min contact side
+den skal indeholde en form

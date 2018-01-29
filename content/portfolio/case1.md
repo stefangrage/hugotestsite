@@ -5,3 +5,4 @@ draft: true
 ---
 
 Dette er portfolio case 1
+Hvad er godt ved den?

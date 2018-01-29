@@ -3,11 +3,20 @@ languageCode = "en-us"
 title = "My New Hugo Site"
 theme = "cocoa"
 
+[params]
+extracssfiles          = [ "/css/override.css" ]
+
 [[menu.main]]
 name                   = "Blog"
 weight                 = 10
 identifier             = "blog"
 url                    = "/blog/"
+
+[[menu.main]]
+name                   = "Portfolio"
+weight                 = 7
+identifier             = "portfolio"
+url                    = "/portfolio/"
 
 [[menu.main]]
 name                   = "Kontakt"
