@@ -2,30 +2,30 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>_Index on My New Hugo Site</title>
-    <link>stefangrage.github.io/hugotestsite/blog/</link>
+    <link>https://stefangrage.github.io/hugotestsite/blog/</link>
     <description>Recent content in _Index on My New Hugo Site</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <lastBuildDate>Mon, 29 Jan 2018 13:52:32 +0100</lastBuildDate>
     
-	<atom:link href="stefangrage.github.io/hugotestsite/blog/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://stefangrage.github.io/hugotestsite/blog/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>Blogpost Nr 2</title>
-      <link>stefangrage.github.io/hugotestsite/blog/blogpost-nr-2/</link>
+      <link>https://stefangrage.github.io/hugotestsite/blog/blogpost-nr-2/</link>
       <pubDate>Mon, 29 Jan 2018 11:36:49 +0100</pubDate>
       
-      <guid>stefangrage.github.io/hugotestsite/blog/blogpost-nr-2/</guid>
+      <guid>https://stefangrage.github.io/hugotestsite/blog/blogpost-nr-2/</guid>
       <description>dette erindlæg i2 gm</description>
     </item>
     
     <item>
       <title>Blogpost 1</title>
-      <link>stefangrage.github.io/hugotestsite/blog/blogpost-1/</link>
+      <link>https://stefangrage.github.io/hugotestsite/blog/blogpost-1/</link>
       <pubDate>Mon, 29 Jan 2018 11:36:06 +0100</pubDate>
       
-      <guid>stefangrage.github.io/hugotestsite/blog/blogpost-1/</guid>
+      <guid>https://stefangrage.github.io/hugotestsite/blog/blogpost-1/</guid>
       <description>dtte er indlægh 2</description>
     </item>
     
