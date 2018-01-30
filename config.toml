@@ -2,6 +2,7 @@ baseURL = "http://hugotestsite.stefangrage.com"
 languageCode = "en-us"
 title = "My New Hugo Site"
 theme = "cocoa"
+publishDir = "docs"
 
 [params]
 extracssfiles          = [ "/css/override.css" ]
