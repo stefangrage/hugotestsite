@@ -24,6 +24,13 @@ Født og vokset halvt op i Karlslunde.
 2. Kold the
 3. Regnvejr
 
+[![Foto af stefan](../stefan.jpg)](http://stefangrage.com)
+
+
+
 ### Her er jeg
 ![Foto af stefan](../stefan.jpg)
+
 [![Foto af stefan](../stefan.jpg)](http://stefangrage.com)
+
+<a href="http://stefangrage.copm" alt="link til mig"><img src="../stefan.jpg"></a>

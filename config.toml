@@ -7,6 +7,20 @@ theme = "cocoa"
 extracssfiles          = [ "/css/override.css" ]
 
 [[menu.main]]
+name                   = "Home"
+weight                 = 0
+identifier             = "home"
+url                    = "/"
+
+
+[[menu.main]]
+name                   = "Deller"
+weight                 = 10
+identifier             = "deller"
+url                    = "/frikadelleopskrifter/"
+
+
+[[menu.main]]
 name                   = "Portfolio"
 weight                 = 1
 identifier             = "portfolio"
